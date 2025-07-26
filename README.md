@@ -20,27 +20,35 @@
 
 ### First-Time Installation Steps
 
-1.  **Clone the Repository:**
-    First, get the plugin's source code by cloning this repository to your local machine:
+1.  **Clone the Repository (Recommended for Developers):**
+    Get the plugin's source code by cloning this repository to your local machine:
     ```bash
     git clone https://github.com/heyuan110/OctoVideoSniffer.git
     ```
     This will create a folder named `OctoVideoSniffer` containing the plugin files.
 
-2.  **Open Browser Extensions Management Page:**
+2.  **Direct Download (Recommended for Most Users):**
+    Download the pre-packaged plugin zip file directly:
+    [https://github.com/heyuan110/OctoVideoSniffer/releases/download/v1.0.0/OctoVideoSniffer.zip](https://github.com/heyuan110/OctoVideoSniffer/releases/download/v1.0.0/OctoVideoSniffer.zip)
+    After downloading, **unzip the file**. You'll get a folder (e.g., `OctoVideoSniffer` or `OctoVideoSniffer-v1.0.0`) containing the plugin files.
+
+
+    https://github.com/heyuan110/OctoVideoSniffer/releases/download/v1.0.0/OctoVideoSniffer.zip
+
+3.  **Open Browser Extensions Management Page:**
     In your Chrome or Edge browser's address bar, type the following address and press Enter:
     ```
     chrome://extensions/
     ```
     (If using Edge, you can also type `edge://extensions/`)
 
-3.  **Enable "Developer mode":**
+4.  **Enable "Developer mode":**
     On the extensions management page, find and **toggle on the "Developer mode" switch** located in the **top-right corner**.
 
-4.  **Load Unpacked Extension:**
+5.  **Load Unpacked Extension:**
     Click the "**Load unpacked**" button that appears in the top-left corner of the page.
 
-5.  **Select the Plugin Directory:**
+6.  **Select the Plugin Directory:**
     In the file selection window that pops up, **choose the `OctoVideoSniffer` folder** that you cloned in Step 1.
 
 ---
