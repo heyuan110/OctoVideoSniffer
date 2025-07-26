@@ -23,7 +23,7 @@
 1.  **Clone the Repository:**
     First, get the plugin's source code by cloning this repository to your local machine:
     ```bash
-    git clone [https://github.com/heyuan110/OctoVideoSniffer.git](https://github.com/heyuan110/OctoVideoSniffer.git)
+    git clone https://github.com/heyuan110/OctoVideoSniffer.git
     ```
     This will create a folder named `OctoVideoSniffer` containing the plugin files.
 
