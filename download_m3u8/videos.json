@@ -1,0 +1,20 @@
+{
+  "mp4": [
+    "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7cf8429a-d3e3-400f-bd0b-e349e2a87eab.mp4/productVideoOptimized.mp4",
+    "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b0e51042-b334-4021-bda4-0295e2233341.mp4/productVideoOptimized.mp4",
+    "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ef990f1f-8af9-4a5f-a303-5caac1526b8a.mp4/productVideoOptimized.mp4",
+    "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/bdc10fbe-f1db-4fdf-8e2a-8f80505f54d0.mp4/productVideoOptimized.mp4",
+    "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/23734bc3-9f33-4209-a817-3a081ebbc97d.mp4/productVideoOptimized.mp4"
+  ],
+  "m3u8": [
+    "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/160597c5-4b8b-496c-bae1-16e17103af12/default.jobtemplate.hls.m3u8",
+    "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8ad749cb-806e-4f95-8da5-7ffcbed1e1f4/default.jobtemplate.hls.m3u8",
+    "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a3ab7a9f-ca0c-41bf-a886-7f7d1d242c1b/default.jobtemplate.hls.m3u8",
+    "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba5b2fe9-d0ff-4ec4-9f71-8ffb13510e5b/default.vertical.jobtemplate.hls.m3u8",
+    "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cb37dc59-d9fe-49aa-80e0-42cd0ada385e/default.vertical.jobtemplate.hls.m3u8",
+    "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/19f2f469-d36e-4f55-84de-61e6afd2f3b7/default.jobtemplate.hls.m3u8",
+    "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/109301b9-1742-49d5-a610-3d216e8a09f2/default.jobtemplate.hls.m3u8",
+    "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c286250e-d388-4c2e-b012-2cb1cf4062d3/default.vertical.jobtemplate.hls.m3u8",
+    "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6e1f6cb4-ebbc-40a8-a98c-8fd4f9d3e02f/default.jobtemplate.hls.m3u8"
+  ]
+}
