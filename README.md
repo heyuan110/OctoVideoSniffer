@@ -45,6 +45,27 @@
 
 ---
 
+
+
 ### 🚨 Important Note
 
 During installation, your browser might display a warning such as "This extension is not from any known source" or similar. Please **confidently click "Keep" or "Enable"**. This is a standard security prompt issued by browsers for extensions installed outside of official app stores (like the Chrome Web Store). This plugin is **developed for internal company use**, has undergone internal security reviews, and is safe to use.
+
+### ⬇️ Downloading M3U8 Videos
+
+**Requires Python and FFmpeg environment.**
+
+
+To download M3U8 videos after exporting `videos.json` with the OctoVideoSniffer plugin:
+
+1.  **Export `videos.json`:** Use the OctoVideoSniffer browser extension to export the `videos.json` file from the webpage containing the M3U8 video.
+2.  **Navigate to `download_m3u8` directory:** Open your command line interface and change your current directory to the `download_m3u8` folder within the cloned repository.
+    ```bash
+    cd path/to/OctoVideoSniffer/download_m3u8
+    ```
+3.  **Copy `videos.json`:** Place the exported `videos.json` file into this `download_m3u8` directory.
+4.  **Run `cmd.py`:** Execute the `cmd.py` script from within the `download_m3u8` directory. It will automatically detect and download the M3U8 videos listed in your `videos.json` file.
+    ```bash
+    python cmd.py
+    ```
+    (Use `python3 cmd.py` if your system uses `python` for Python 2.)
